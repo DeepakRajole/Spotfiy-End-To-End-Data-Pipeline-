@@ -1,3 +1,5 @@
+//spotify data extraction in AWSLambda function:
+
 import json
 import os
 import spotipy

@@ -29,4 +29,31 @@ This project extracts divers data from the Spotify API,including album,artist,so
 **- Amazon Simple Storage Service(S3),**
 
 **- Snowflake**
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![spotify_Snowflake_Project](https://github.com/DeepakRajole/Spotfiy-End-To-End-Data-Pipeline-/assets/169185254/edfeb0ff-b1d0-44c2-9824-6682e30d36d2)

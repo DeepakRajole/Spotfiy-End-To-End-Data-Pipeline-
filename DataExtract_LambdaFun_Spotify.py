@@ -1,4 +1,4 @@
-//spotify data extraction in AWSLambda function:
+# Spotify data extraction using AWSLambda function:
 
 import json
 import os

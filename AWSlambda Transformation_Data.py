@@ -1,3 +1,5 @@
+#  AWS lambda function to transform the data:
+
 import json
 import boto3
 from datetime import datetime

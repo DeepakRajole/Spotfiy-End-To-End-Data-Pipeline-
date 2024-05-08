@@ -14,8 +14,6 @@ This project extracts divers data from the Spotify API,including album,artist,so
 
 **4.Snowpipe**: Snow pipes are designed to automate the data loading process by continuously loading data from external sources into Snowflake tables. by using snowpipe automatically data will be updated in album,artist and songs tables in snowflake.
 
-**5.Data visualisation**: By connecting Snowflake to Power BI, you can access this data directly, ensuring that your reports and dashboards are based on the most up-to-date information.
-
 **Tools used in this project:**
 
 **- Spotify API,**
